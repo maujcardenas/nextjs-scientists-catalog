@@ -9,8 +9,8 @@ function AboutPage() {
           <h1 className="text-3xl uppercase py-5">About Us</h1>
           <p className="text-sm py-3 pr-5">
             Welcome to our website dedicated to showcasing the remarkable
-            contributions of some of history's most influential scientists.
-            Here, we celebrate the intellect, creativity, and dedication of
+            contributions of some of historys most influential scientists. Here,
+            we celebrate the intellect, creativity, and dedication of
             individuals who have shaped the course of human knowledge and
             understanding.
           </p>
@@ -30,7 +30,7 @@ function AboutPage() {
             scientific endeavor.
           </p>
           <p className="py-3 pr-5">
-            Whether you're a student seeking inspiration, an enthusiast eager to
+            Whether youre a student seeking inspiration, an enthusiast eager to
             delve into the annals of scientific history, or simply someone with
             a curiosity about the world and the people who have shaped it, our
             website invites you on a journey of discovery and enlightenment.
